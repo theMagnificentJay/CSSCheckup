@@ -1,11 +1,14 @@
 body {
   background-color: black;
   color: white;
+  height: auto;
+  width: auto;
 }
 
 div {
   margin: auto;
 }
+
 section {
   margin: 5%;
   padding: 25px;
